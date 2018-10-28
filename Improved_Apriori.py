@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 26 17:00:03 2018
+There are several ways to improve Apriori Algorithms, but in this project,
+I only use partition. Besides, partition will increase the efficiency, but
+with sacrifice of accuracy.
 
-@author: kefei
+@author: Kefei Wu
 """
 
 from time import time
